@@ -10,6 +10,20 @@ I turn business and research questions into product workflows, interactive proto
 
 ## Selected projects / 精选项目
 
+### AI E-commerce Operations Assistant / AI 电商运营助手
+
+**An AI assistant built on Coze for e-commerce operations.**
+
+I created this assistant on Coze to explore AI applications in e-commerce operations, bringing together my interests in AI products and business workflows.
+
+- **My contribution:** Created the AI e-commerce operations assistant on Coze.
+- **Platform:** Coze (扣子).
+- **Explore:** Open the linked agent page to try the assistant.
+
+我在 Coze（扣子）上制作的 AI 电商运营助手，探索 AI 在电商运营场景中的应用。
+
+[Try the assistant / 体验助手](https://www.coze.cn/store/agent/7674848296376221738?bot_id=true)
+
 ### HCMC Street Greening Dashboard
 
 **From street-view research to an interactive greening assessment tool.**
