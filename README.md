@@ -12,15 +12,19 @@ I turn business and research questions into product workflows, interactive proto
 
 ### AI E-commerce Operations Assistant / AI 电商运营助手
 
-**An AI assistant built on Coze for e-commerce operations.**
+**An evidence-based e-commerce diagnosis assistant built on Coze.**
 
-I created this assistant on Coze to explore AI applications in e-commerce operations, bringing together my interests in AI products and business workflows.
+I built this practice project to explore how AI can explain changes in store performance using business metrics, retrieved evidence, and operating procedures.
 
-- **My contribution:** Created the AI e-commerce operations assistant on Coze.
-- **Platform:** Coze (扣子).
-- **Explore:** Open the linked agent page to try the assistant.
+- **Project work:** Coze agent configuration, diagnosis workflow iteration, and a knowledge base combining public references, original practice SOPs, and synthetic cases.
+- **Scenarios:** Six simulated cases covering traffic decline, stockouts and conversion, product mix and average order value, advertising ROAS, refunds, and insufficient evidence.
+- **Diagnosis design:** Check metric definitions, retrieve case-specific evidence, distinguish observations from candidate causes, and explain missing evidence. Generate strategy suggestions only when requested.
+- **Methods & tools:** Coze, workflow orchestration, knowledge retrieval (RAG), prompt design, and scenario-based testing.
+- **Scope:** Practice project with synthetic store data. Public Amazon guidance is used as a reference, not as evidence of a store-specific cause. Real-store integrations and business impact are not claimed.
 
-我在 Coze（扣子）上制作的 AI 电商运营助手，探索 AI 在电商运营场景中的应用。
+基于 Coze（扣子）搭建电商经营诊断练习项目，围绕“指标口径核对—证据检索—候选原因分析—补证或建议”组织诊断流程。知识库包含公开资料参考、原创练习 SOP 和 6 组模拟店铺案例，重点关注证据引用、归因边界与证据不足时的回复。
+
+**Try a sample / 体验问题：** “请用 CASE-DEMO-01 诊断模拟店铺 GMV 下降原因，只做诊断，并列出证据 ID。”
 
 [Try the assistant / 体验助手](https://www.coze.cn/store/agent/7674848296376221738?bot_id=true)
 
