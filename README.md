@@ -56,7 +56,7 @@ A product exploration for people studying or working at a desk, combining camera
 
 围绕“校准—识别—持续性判断—分级提醒—专注结算—成长反馈”设计产品闭环，关注提醒时机、异常兜底和长期使用体验。
 
-[Live prototype / 在线原型](https://posture-pal-2jc4.vercel.app)
+[Live prototype / 在线原型](https://wqw845950341-cell.github.io/posturepal-portfolio/)
 
 ## How I work / 工作方式
 
