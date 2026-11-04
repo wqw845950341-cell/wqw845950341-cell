@@ -10,6 +10,18 @@ I turn business and research questions into product workflows, interactive proto
 
 ## Selected projects / 精选项目
 
+### Teddi Lab — Digital Marketing & Brand Strategy / 数字营销与品牌策略
+
+**A bilingual brand strategy and social campaign portfolio.**
+
+- **Project work:** Brand diagnosis, international case analysis, original campaign concept and bilingual copy, Instagram / TikTok designs, proposed creator partnerships, and a four-week publishing and testing plan.
+- **Digital experience:** Responsive English / Chinese website, scroll motion, an interactive storyboard, full-resolution creative boards and a seven-second concept film.
+- **Scope:** Independent, uncommissioned portfolio. Campaigns, budgets and partnerships are proposals; AI creator models are fictional. No commercial results or actual endorsements are claimed.
+
+面向 Teddi Lab 数字营销岗位的独立作品集：从品牌资产与传播问题出发，将国际案例机制转化为原创 Campaign、双语社媒创意与可验证的四周传播计划。
+
+[Live portfolio / 在线作品集](https://wqw845950341-cell.github.io/teddi-lab-portfolio/) · [Repository / 源码](https://github.com/wqw845950341-cell/teddi-lab-portfolio)
+
 ### AI E-commerce Operations Assistant / AI 电商运营助手
 
 **An evidence-based e-commerce diagnosis assistant built on Coze.**
