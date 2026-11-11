@@ -10,6 +10,19 @@ I turn business and research questions into product workflows, interactive proto
 
 ## Selected projects / 精选项目
 
+### LaneMuse CityWalk / 巷遇 · AI 城市文化探索助手
+
+**A mobile-first cultural walking assistant — from PRD to an interactive prototype.**
+
+- **Project work:** Product positioning, user journeys, MVP definition, feature traceability, Agent workflow, data-source strategy, metrics and iteration planning.
+- **Experience:** Preference setting, numbered route maps, cultural notes with sources, contextual dialogue, confirmed itinerary changes, local saving and walking-session feedback.
+- **Design:** Travel-journal visuals combining architectural doodles, blue graph paper and AI-generated photographic-style imagery.
+- **Scope:** An interactive front-end concept. AI and route planning use local rule-based simulations; maps are illustrative. Live LLM/RAG, verified navigation and real-time opening data are not integrated. User research and commercial outcomes are not claimed.
+
+面向自由行游客与城市探索爱好者，从完整 PRD、三套视觉探索到高保真交互原型，串联“偏好设置—路线规划—文化讲解—AI 调整—行中反馈”。采用手绘旅行手账与实拍风格图片，保留文化来源与用户确认环节，明确演示能力和真实接入边界。
+
+[Live prototype / 在线体验](https://wqw845950341-cell.github.io/qianwen-portfolio/citywalk/) · [Case study / 项目案例](https://wqw845950341-cell.github.io/qianwen-portfolio/#work-6) · [Source / 源码](https://github.com/wqw845950341-cell/qianwen-portfolio/tree/main/citywalk) · [PRD / 产品需求文档](https://github.com/wqw845950341-cell/qianwen-portfolio/blob/main/citywalk/docs/PRD.md)
+
 ### Teddi Lab — Digital Marketing & Brand Strategy / 数字营销与品牌策略
 
 **A bilingual brand strategy and social campaign portfolio.**
